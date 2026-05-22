@@ -48,11 +48,11 @@ a{color:var(--green);}
   font-weight:700;font-size:15px;padding:14px 30px;border-radius:9px;
   text-decoration:none;transition:transform .15s ease,background .15s ease;}
 .cta:hover{background:var(--green-deep);transform:translateY(-2px);}
-.scrollcue{position:relative;z-index:2;text-align:center;padding-bottom:22px;
+.scrollcue{text-align:center;padding:16px 0;
   color:var(--muted);font-size:12px;letter-spacing:.12em;text-transform:uppercase;}
 
 /* ---------- ENGAGEMENTS ---------- */
-.engage{background:var(--ink);color:#cdd6cd;padding:54px 0;}
+.engage{background:var(--ink);color:#cdd6cd;padding:40px 0;}
 .engage .label{color:var(--lime);display:block;text-align:center;margin-bottom:14px;}
 .engage .lead{text-align:center;max-width:62ch;margin:0 auto;color:#b6c0b6;font-size:16px;}
 .ticker{margin-top:30px;overflow:hidden;
