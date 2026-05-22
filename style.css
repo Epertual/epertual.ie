@@ -39,7 +39,7 @@ a{color:var(--green);}
 .logo-img{display:block;height:59px;width:auto;}
 
 .hero-body{position:relative;z-index:2;flex:1;display:flex;align-items:center;}
-.hero-body .wrap{text-align:center;padding-top:40px;padding-bottom:50px;}
+.hero-body .wrap{text-align:center;padding-top:40px;padding-bottom:52px;}
 .hero h1{font-size:clamp(34px,5.4vw,62px);font-weight:800;max-width:14ch;margin:0 auto;}
 .hero h1 .accent{color:var(--green);}
 .hero .sub{font-size:clamp(16px,1.7vw,20px);color:var(--text);
@@ -48,7 +48,7 @@ a{color:var(--green);}
   font-weight:700;font-size:15px;padding:14px 30px;border-radius:9px;
   text-decoration:none;transition:transform .15s ease,background .15s ease;}
 .cta:hover{background:var(--green-deep);transform:translateY(-2px);}
-.scrollcue{text-align:center;padding:8px 0;
+.scrollcue{text-align:center;padding:7px 0;
   color:var(--muted);font-size:12px;letter-spacing:.12em;text-transform:uppercase;}
 
 /* ---------- ENGAGEMENTS ---------- */
