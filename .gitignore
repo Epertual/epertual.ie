@@ -15,3 +15,9 @@ Desktop.ini
 # Build output (if a tooling pipeline is added later)
 node_modules/
 dist/
+
+# Internal — present locally, excluded from the public repo
+.claude/
+docs/
+CLAUDE.md
+README.md
