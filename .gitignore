@@ -18,6 +18,7 @@ dist/
 
 # Internal — present locally, excluded from the public repo
 .claude/
+.superpowers/
 docs/
 CLAUDE.md
 README.md
